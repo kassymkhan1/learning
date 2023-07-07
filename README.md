@@ -1,20 +1,19 @@
 # Learning
 
-I study different technologies and, I read books<br> 
+I study different technologies and, I read books<br>
 **Technologies:**
-1) kubernetes
-2) angular
-3) Golang
-4) Architectural Design
+- kubernetes
+- angular
+- Golang
+- Architectural Design
 
-Categories: 
----
-Books
----
+# Categories: 
 
- 1)  **Martin_R._Bibliotekaprog._Chistaya_Arhitektura_Isku**
- 2)  **SRE** 
+## Books
 
-Kubernetes
----
+  *  **Martin_R._Bibliotekaprog._Chistaya_Arhitektura_Isku**
+  *  **SRE** 
+
+## Kubernetes
+   
 __Started system development__
