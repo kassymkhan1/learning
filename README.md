@@ -1,14 +1,14 @@
 # Learning
 
 I study different technologies and, I read books<br>
-**Technologies**:
-- kubernetes
-- angular
-- Golang
-- Architectural Design
+
+**Technologies**: 
+* kubernetes
+* angular
+* Golang
+* Architectural Design
 
 # Categories: 
----  
 
 ## Books
 
@@ -16,5 +16,5 @@ I study different technologies and, I read books<br>
   *  **SRE** 
 
 ## Kubernetes
-   
+
 __Started system development__
