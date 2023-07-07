@@ -8,4 +8,4 @@
 
 # Kubernetes
 
- Начал разработку системы 
+ Started system development
