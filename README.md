@@ -1,6 +1,6 @@
 # Learning
 
-I study different technologies and, I read books 
+I study different technologies and, I read books<br> 
 **Technologies:**
 1) kubernetes
 2) angular
