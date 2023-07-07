@@ -1,4 +1,10 @@
 # learning
+I study different technologies and I ready books 
+Technologies: 
+ 1) kubernetes
+ 2) angular
+ 3) Golang
+ 4) Architectural Design
 
 # Categories 
 
