@@ -14,7 +14,15 @@ I study different technologies and, I read books<br>
 
   *  **Martin_R._Bibliotekaprog._Chistaya_Arhitektura_Isku**
   *  **SRE** 
-
+  *  **Экстремальное программирование. Разработка через тестирование(TDD)**
 ## Kubernetes
 
 __Started system development__
+
+#### Base directory: **kubernetes**
+#### Structures 
+ - Helm
+ - Kubespray
+ - Ansible role
+ - Istio
+ - Source Code deploy 
