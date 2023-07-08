@@ -26,3 +26,17 @@ __Started system development__
  - Ansible role
  - Istio
  - Source Code deploy 
+
+## [Hashicorp](https://developer.hashicorp.com/)
+
+<h4>NOMAD</h4>
+
+  IN PROGRESS...
+
+<h4>CONSUL</h4>
+
+  IN PROGRESS...
+
+## [ANGULAR](https://angular.io)
+
+  IN PROGRESS...
